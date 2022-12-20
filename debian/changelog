@@ -1,0 +1,50 @@
+haskell-call-stack (0.2.0-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:36:57 +0800
+
+haskell-call-stack (0.2.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sat, 30 May 2020 15:13:26 -0400
+
+haskell-call-stack (0.1.0-5) unstable; urgency=medium
+
+  [ Clint Adams ]
+  * Set Rules-Requires-Root to no.
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 30 Sep 2018 21:03:37 +0300
+
+haskell-call-stack (0.1.0-4) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Change Priority to optional. Since Debian Policy version 4.0.1,
+    priority extra has been deprecated.
+  * Use the HTTPS form of the copyright-format URL
+  * Modify d/watch and Source field in d/copyright to use HTTPS
+  * Declare compliance with Debian policy 4.1.1
+
+  [ Clint Adams ]
+  * Bump to Standards-Version 4.1.4.
+
+ -- Clint Adams <clint@debian.org>  Mon, 09 Apr 2018 20:04:43 -0400
+
+haskell-call-stack (0.1.0-3) unstable; urgency=medium
+
+  * Disable testsuite to avoid b-d loop for now.
+
+ -- Clint Adams <clint@debian.org>  Sun, 09 Jul 2017 08:36:37 -0400
+
+haskell-call-stack (0.1.0-2) unstable; urgency=medium
+
+  * Mark nanospec build-dep as <!nocheck>.
+
+ -- Clint Adams <clint@debian.org>  Fri, 07 Jul 2017 17:17:38 -0400
+
+haskell-call-stack (0.1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Clint Adams <clint@debian.org>  Tue, 09 May 2017 18:53:17 -0400
